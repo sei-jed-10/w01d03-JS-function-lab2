@@ -2,8 +2,8 @@
 
 #### Exercise 1:
 Write a JavaScript function that returns a passed string with letters in alphabetical order.
-Example string: 'Sara'
-Expected Output: 'araS':
+Example string: 'sara'
+Expected Output: 'aars':
 
 ```
 
